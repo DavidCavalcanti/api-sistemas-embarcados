@@ -101,9 +101,13 @@ Release 1.0.0.0.
 ## Contribuição
 
 Faça o fork do projeto (fork no canto superior direito desta página)
+
 Crie uma nova branch (git checkout -b feature/nova-feature)
+
 Faça commit das alterações (git commit -am 'Adiciona nova feature')
+
 Faça push para a branch (git push origin feature/nova-feature)
+
 Crie um novo Pull Request
 
 ## Licença
